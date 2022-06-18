@@ -20,6 +20,6 @@ class Word with _$Word {
     String? bookForm,
 
     /// Examples of usage in finnish language.
-    List<String>? examples,
+    String? examples,
   }) = _Word;
 }
